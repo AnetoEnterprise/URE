@@ -22,18 +22,14 @@ world or even unknown extra-terrestrial languages.
 # Features
 The Universal Runtime Environment makes your job easier with:
 
-# The integrated universal debugger: Capable of detecting errors
-in the syntaxes used by programming languages
-universal, adapted and multilingual.
+# The integrated universal debugger:
+Capable of detecting errors in the syntaxes used by programming languages universal, adapted and multilingual.
 
-# Appropriate Syntax Security: Secures your syntax language
-programming or executable application, so that no one
-no one else can modify it without your permission.
+# Appropriate Syntax Security:
+Secures your syntax language programming or executable application, so that no one no one else can modify it without your permission.
 
-# Formal or other language: You will be free to program at
-any native or other language in the world.
+# Formal or other language:
+You will be free to program at any native or other language in the world.
 
-# Cross platforms: As long as the execution environment
-universal (EEU) is cross-platform, programmable and
-executable in all operating systems, your programming language
-programming will also be.
+# Cross platforms:
+As long as the execution environment universal (EEU) is cross-platform, programmable and executable in all operating systems, your programming language programming will also be.
