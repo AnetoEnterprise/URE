@@ -1,5 +1,5 @@
 # URE
-Thank you for choosing the Universal Runtime Environment (EEU) as your
+Thank you for choosing the Universal Runtime Environment (URE) as your
 environment of your operating system for you
 help to create well your own universal programming language and
 help other programmers use your new language to
