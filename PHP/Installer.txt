@@ -1,0 +1,21 @@
+mkdir -p /usr/share/ure
+cp ./lang.conf /usr/share/ure/
+cp ./langGUI.conf /usr/share/ure/
+
+
+php -i | grep extension_dir
+cp ./ure.so /usr/lib/php/20200930/
+
+
+php -i | grep 'Configuration File'
+nano /etc/php/8.0/cli/php.ini
+extension=ure.so
+;extension=ure.dll
+
+
+
+sudo service apache2 restart
+php -m | grep ure
+php -r 'echo URE_EXEC("-e", "./SYNTAXES.txt", ".ure")."\n";'
+php -r 'echo URE_EXEC("-l", "", "./SYNTAXES.ure")."\n";'
+php -r 'echo URE_EXEC("-r", "", "./SYNTAXES.txt")."\n";'
