@@ -100,3 +100,34 @@ without any difficulty. Even for Africans could study a
 programming language developed by an American in English, i.e.
 understanding in Lingala, Kikongo, Tshiluba, French or even English
 default language of this programming language.
+
+# 1.3. Conclusion :
+Even if repetition is the mother of science as we say, this
+inferiority or superiority complex of using only one language to
+the advancement of technology should change completely is that in every
+continent and in each country that there is invention, innovation and
+understanding ensure for everyone as long as computers,
+mobile phones or other electronic devices do not experience any
+human formal language. And it’s thanks to a unique programming language
+assembly, otherwise called assembler designed for processors, our
+formal languages use it for translation and execution of programs
+computers.
+
+So why force people to only one language before handling
+a new invention or innovation?
+Because the inventors or innovators are English-speaking?
+
+# 2. What is a universal runtime environment ?
+To better understand the execution environment, an environment
+execution or runtime in English, is software responsible for the execution
+computer programs written in a language
+given programming. A runtime provides execution services
+programs such as input-output, stopping processes, using
+operating system services, processing of calculation errors,
+generation of events, use of services offered in another language
+programming, and debugging (Debugger).
+
+A runtime can be seen as a virtual machine: in the same way
+that native code is executed by the processor, object code is executed by the
+runtime. The runtime is then used to execute object code by putting the code
+native available to the processor for execution.
