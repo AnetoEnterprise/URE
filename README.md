@@ -131,3 +131,78 @@ A runtime can be seen as a virtual machine: in the same way
 that native code is executed by the processor, object code is executed by the
 runtime. The runtime is then used to execute object code by putting the code
 native available to the processor for execution.
+
+# In this sense we can say that:
+The runtime is the interpreter: it interprets the source code, manipulates the variables,
+reserves memory and supports runtime errors and can
+accompanied by a standard library. It implements the functionalities
+elementary of the language, while the standard library is typically
+written in the language itself.
+
+As for the universal runtime environment (URE), controls the execution of
+programs in different programming languages, using the
+different languages in the world and provides services. These services are
+exposed exactly even if the programming languages involved
+use different languages from different programmers around the world.
+However, the range of functions is the same in all languages and they
+are implemented by the same universal execution environment.
+
+it is not only for running cross-platform applications,
+also considered as an execution environment in the same way as a
+operating system (SE or OS), also makes it easier to use or
+programming computer languages so that every programmer in
+the different countries, using the different language that its designer, arrives at
+understand the syntaxes proposed for the chosen language so that the future of
+inventions and innovations are assured.
+
+Let's take an example of two neighbors, one of whom is bilingual who
+speaks very well in French and Lingala. While the other expresses himself
+only in Lingala. The two neighbors have one child each. But, one of the
+neighbors her child also understands both languages (French and Lingala) as much
+that his mother often learns.
+
+So, the neighbor who speaks only in Lingala sends her child to the
+bilingual neighbor in order to recover her money that she had lent to her friend
+(The other neighbor).
+
+To better understand this little story or procedure carried out in a
+computer, mobile phone or others, one of the neighbors who is bilingual is the
+computer operating system, the other neighbor is indeed the software
+or the application created by a computer programmer.
+
+The two children, that of the bilingual neighbor, are an environment
+execution and the other child, is a programming language used at
+design of the software or application by the computer programmer.
+
+Which results in 4 Fictional Characters from the story or procedures assigned in
+a computer :
+
+ The operating system: The bilingual neighbor;
+ Software: The Lingala-speaking neighbor mom;
+ Execution environment: The child of the bilingual neighbor;
+ The programming language: The mother next door’s child
+lingalaphone.
+
+Now you will understand what happens in a computer,
+mobile phone or other devices used by computer programs.
+The Lingala-speaking neighbor mother easily sends her child in Lingala in order to go
+get the money back. The child (Programming language) arrives at the destination
+and hits the door, the other child (Execution environment) rushes to
+look to see if it is who it is to listen and understand what this child is going to do
+ask. Once the request is readable with exact words (Syntaxes), it
+transmits the same request to its mother (Operating System) in order to
+check if she really has the money. In case of success or otherwise that its
+mother does not have the money, she sends the answer or the money back to her child and the child
+in turn transmits the response received or the money received to the child who was in
+waiting in front of the door. Furthermore, if the words or syntax of the request have not
+not been correctly defined, the universal execution environment
+(The bilingual child) detects and returns errors to the programming language
+waiting for the response (The child waiting) in order to transmit it to the software
+or application (His mother).
+
+NB: With this example, he shows us that the Lingala-speaking neighbor mother and
+their child no longer needs to know or necessarily learn the
+exact language that their neighbors use in order to adapt it and apply it in their
+House.
+
+# 3. 
