@@ -219,3 +219,29 @@ Is called from the console
 language on which you go
 use for your application.
 
+# ##
+Used to comment on a syntax block in order to find it easily.
+
+# (CURE)
+Allows you to activate the details of
+errors detected in order to display the
+real hidden syntaxes. This
+option or symbol is
+not recommended for those who want
+hide and secure their syntaxes.
+By default it is disabled.
+
+# -e
+To be used from the terminal in order to
+compile and secure your syntaxes.
+
+# -l
+Used to run URE in mode
+console followed by a file of
+target syntaxes.
+
+# -h
+To view help about URE.
+
+# `?` or ‘?’ or even “?”
+Reads values that are enclosed in quotes.
