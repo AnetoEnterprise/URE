@@ -178,10 +178,12 @@ Which results in 4 Fictional Characters from the story or procedures assigned in
 a computer :
 
  The operating system: The bilingual neighbor;
+
  Software: The Lingala-speaking neighbor mom;
+
  Execution environment: The child of the bilingual neighbor;
- The programming language: The mother next door’s child
-lingalaphone.
+
+ The programming language: The mother next door’s child lingalaphone.
 
 Now you will understand what happens in a computer,
 mobile phone or other devices used by computer programs.
@@ -205,4 +207,15 @@ their child no longer needs to know or necessarily learn the
 exact language that their neighbors use in order to adapt it and apply it in their
 House.
 
-# 3. 
+# 3. URE symbols
+Before you begin to understand internal physical behavior
+of our universal execution environment, here is a table
+symbolic to understand first in order to adapt correctly
+in the following steps:
+
+# :s:
+Is called from the console
+(terminal) to determine the
+language on which you go
+use for your application.
+
